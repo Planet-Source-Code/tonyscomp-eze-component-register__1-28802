@@ -1,0 +1,5 @@
+frmMain = 44, 0, 464, 454, Z, 22, 22, 442, 458, C
+modRegistry = 66, 66, 532, 484, 
+modReferenceRegister = 44, -25, 510, 462, 
+frmAbout = 110, 110, 576, 536, , 88, 88, 554, 514, C
+clsFile = 132, 109, 598, 558, 
